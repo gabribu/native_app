@@ -16,7 +16,7 @@ gitcone: https://github.com/gabribu/native_app.git
 ```
 Para ejecutarlo tienes que iniciar primeramente tu proyecto en android studio.
 Una vez ahí deberas de ejecutar tu simulador de android. 
-Lo siguiente será dar clic en la parte superior derecha en el icono de "play" o bien tomar el atajo con tu teclado con Mayús + F10
+Lo siguiente será dar clic en la parte superior derecha en el icono de "play" o bien tomar el atajo con tu teclado con Mayús + F10.
 Si todo esta bien deberá de iniciar la app en el simulador y así es como verás el funcionamiento de la app.
 
 # ¿Dudas? ¿Sugerencias?
